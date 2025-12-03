@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on google
 - 📫 How to reach me : https://www.linkedin.com/in/prajwal-n-/
 - 😄 Pronouns: he /him 
-- ⚡ Fun fact: master is everything is once a beginner 
+- ⚡ Fun fact: master in everything is once a beginner 
 
 <!---
 PrajwaL-N-TECHIE/PrajwaL-N-TECHIE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
